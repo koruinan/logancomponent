@@ -1,0 +1,54 @@
+{
+  "name": "vitepress-logan-component",
+  "version": "1.0.0",
+  "description": "logancomponent源码",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "keywords": [
+    "element-plus",
+    "vite",
+    "vite4",
+    "vitepress",
+    "vue",
+    "vue3",
+    "logancomponent",
+    "二次封装组件",
+    "封装组件"
+  ],
+  "author": "logan",
+  "license": "ISC",
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@types/lodash": "^4.14.195",
+    "@wangeditor/editor": "^5.1.23",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "element-plus": "^2.3.9",
+    "lodash": "^4.17.21",
+    "sass": "^1.63.6",
+    "sass-loader": "^13.3.2",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@types/mockjs": "^1.0.7",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "axios": "^1.4.0",
+    "chalk": "^4.1.0",
+    "consola": "^3.2.3",
+    "escape-html": "^1.0.3",
+    "fs-extra": "^11.1.1",
+    "logan-component": "^1.1.1",
+    "markdown-it": "^13.0.1",
+    "markdown-it-container": "^3.0.0",
+    "mockjs": "^1.1.0",
+    "normalize.css": "^8.0.1",
+    "prismjs": "^1.29.0",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.0",
+    "vitepress": "1.0.0-alpha.75",
+    "vue-tsc": "^1.8.3"
+  }
+}
