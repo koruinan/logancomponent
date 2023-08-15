@@ -10,7 +10,7 @@
 
 ## 组件预览
 
-地址：[koruinan.github.io/logancomponentdoc/](https://koruinan.github.io/logancomponentdoc/)
+地址：[http://111.230.72.124/logancomponent](http://111.230.72.124/logancomponent)
 
 ## 下载源码使用
 
